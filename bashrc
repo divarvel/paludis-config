@@ -1,4 +1,4 @@
-CHOST="x86_64-pc-linux-gnu"
+#CHOST="x86_64-pc-linux-gnu"
 CFLAGS="-march=native -pipe -O3"
 CXXFLAGS="${CFLAGS}"
 
